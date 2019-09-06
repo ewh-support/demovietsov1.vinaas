@@ -82,7 +82,7 @@
 html,
 body { height: 100% }
 body {
-    font-family: 'Hind', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     font-size: 16px;
     color: #848484;
     line-height: 26px;
@@ -92,7 +92,7 @@ button:focus{
   outline: none;
 }
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     color: #222222;
     margin: 0;
 }
@@ -145,7 +145,7 @@ button{
     font-weight: 700;
     text-transform: uppercase;
     transition: all 500ms ease;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     display: block;
     border-radius: 30px;
     padding: 12px 25px 10px;
@@ -358,7 +358,7 @@ select:focus {
     padding: 14px 0;
     transition: all 500ms ease 0s;
     width: 55px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     border-radius: 50%;
 }
 .post-pagination li.active a, .post-pagination li:hover a {
@@ -653,7 +653,7 @@ select:focus {
     position: relative;
     text-transform: uppercase;
     transition: all 500ms ease 0s;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 .main-menu .navigation > li:hover > a, 
 .main-menu .navigation > li.current > a {
@@ -721,7 +721,7 @@ select:focus {
     text-transform: capitalize;
     position: relative;
     transition: all 500ms ease;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 .main-menu .navigation > li > ul > li:hover > a {
     color: #ffffff;
@@ -803,7 +803,7 @@ select:focus {
     font-weight: 700;
     text-transform: uppercase;
     line-height: 68px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     transition: all 500ms ease;
 }
 .mainmenu-area .consultation-button a:hover{
@@ -832,7 +832,7 @@ select:focus {
     line-height: 48px;
     text-transform: none;
     margin: 0 0 10px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 .rev_slider_wrapper .slide-content-box h1 span{
     color: #0392ce;    
@@ -843,7 +843,7 @@ select:focus {
     font-weight: 300;
     line-height: 28px;
     margin: 0px 0 35px;
-    font-family: 'Hind', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 .rev_slider_wrapper .slide-content-box .button{
     margin-bottom: 12px;
@@ -856,7 +856,7 @@ select:focus {
     font-size: 14px;
     font-weight: 700;
     text-transform: uppercase;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     margin-right: 16px;
     border-radius: 30px;
 }
@@ -978,7 +978,7 @@ select:focus {
     padding: 0 15px;
     font-size: 16px;
     font-weight: 300;
-    font-family: 'Hind', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     transition: all 500ms ease;
     margin-bottom: 30px;
 }
@@ -1078,7 +1078,7 @@ select:focus {
     display: inline-block;
     padding: 6px 15px 4px;
     border-radius: 20px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     position: relative;
     top: -20px;
     background: #fff;
@@ -1437,7 +1437,7 @@ select:focus {
     color: #ffffff;
     font-size: 30px;
     font-weight: 400;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 .fact-counter-area .single-item h3{
     color: #ffffff;
@@ -1445,7 +1445,7 @@ select:focus {
     line-height: 26px;
     font-weight: 400;
     text-transform: capitalize;
-    font-family: 'Hind', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     margin: 11px 0 0;
 }
 
@@ -1666,7 +1666,7 @@ select:focus {
     color: #848484;
     font-size: 15px;
     font-weight: 400;
-    font-family: 'Hind', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 .single-blog-item .text-holder .meta-info li a:hover{
     color: #0392ce;
@@ -1822,7 +1822,7 @@ select:focus {
     transition: all 500ms ease;
     box-shadow: none;
     line-height: 44px;
-    font-family: 'Hind', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     margin-bottom: 9px;
 }
 .facilities-appointment-area .appointment .input-box .icon-box {
@@ -1927,7 +1927,7 @@ select:focus {
     font-size: 14px;
     font-weight: 700;
     text-transform: uppercase;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     display: block;
     margin-top: 15px;
     transition: all 500ms ease;
@@ -1968,7 +1968,7 @@ select:focus {
     font-size: 16px;
     font-weight: 300;
     transition: all 500ms ease;
-    font-family: 'Hind', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 .single-footer-widget .usefull-links li a:before {
     position: absolute;
@@ -2028,7 +2028,7 @@ select:focus {
     font-size: 16px;
     font-weight: 300;
     line-height: 26px;
-    font-family: 'Hind', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 
 
@@ -2075,7 +2075,7 @@ select:focus {
     -webkit-transition: all 500ms ease 0s;
     transition: all 500ms ease 0s;
     width: 100%;
-    font-family: 'Hind', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 .single-footer-widget form.appointment-form textarea{
     height: 70px;
@@ -2092,7 +2092,7 @@ select:focus {
     text-align: center;
     transition: all 500ms ease 0s;
     width: 90px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     padding: 5px 0 3px;
     border: 1px solid #2e2e2e;
 }
@@ -2130,7 +2130,7 @@ select:focus {
     color: #949494;
     font-size: 14px;
     font-weight: 300;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     line-height: 26px;
 }
 .copyright-text p a{
@@ -2227,7 +2227,7 @@ select:focus {
     line-height: 20px;
     font-size: 16px;
     font-weight: 400;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 .breadcrumb-bottom .left ul li:last-child{
     margin-right: 0;
@@ -2235,7 +2235,7 @@ select:focus {
 .breadcrumb-bottom .left ul li a{
     color: #ffffff;
     text-transform: capitalize;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     transition: all 500ms ease;
 }
 .breadcrumb-bottom .left ul li.active{
@@ -2729,7 +2729,7 @@ select:focus {
     font-size: 16px;
     font-weight: 300;
     transition: all 500ms ease;
-    font-family: 'Hind', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 .faq-question-form-area .question-form form input[type="text"]:focus{
     border: 1px solid #0392ce;    
@@ -2775,7 +2775,7 @@ select:focus {
     border-radius: 0;
     display: block;
     padding: 10px 0px 10px 30px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     font-weight: 500;
     text-transform: capitalize;
 }
@@ -2853,7 +2853,7 @@ select:focus {
     color: #ffffff;
     font-weight: 600;
     text-transform: capitalize;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 	position: relative;
 	right: 100%;
 	transition: all .9s ease;
@@ -3375,7 +3375,7 @@ select:focus {
     font-size: 16px;
     font-weight: 300;
     line-height: 26px;
-    font-family: 'Hind', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 
 
@@ -3563,7 +3563,7 @@ select:focus {
     color: #222222;
     font-size: 22px;
     font-weight: 400;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     text-transform: capitalize;
     margin: 0;
 }
@@ -3701,7 +3701,7 @@ select:focus {
     position: relative;
     font-weight: 400;
     margin: 0 0 2px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     transition: all 500ms ease;
     top: -5px;
 }
@@ -3858,7 +3858,7 @@ select:focus {
 }
 .blog-single-area .sec-title h3 {
     font-size: 25px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 .blog-single-area .single-blog-item .text-holder {}
 
@@ -4517,7 +4517,7 @@ select:focus {
     font-weight: 400;
     margin: 0 0 3px;
     text-transform: capitalize;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 .checkout-area .form form .field-input input[type="text"] {
   border: 2px solid #f4f4f4;
@@ -4595,7 +4595,7 @@ select:focus {
     position: relative;
     text-transform: capitalize;
     width: 100%;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 .checkout-area .table .cart-table thead tr th {
     font-weight: 400;
@@ -4644,7 +4644,7 @@ select:focus {
     font-size: 16px;
     font-weight: 400;
     text-transform: capitalize;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 
 .checkout-area .table .cart-table tbody tr .qty {
@@ -4708,7 +4708,7 @@ select:focus {
     padding: 10px 18px;
     position: relative;
     width: 50%;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 .cart-total-table li span.col {
     color: #999999;
@@ -4755,7 +4755,7 @@ select:focus {
     font-size: 16px;
     padding-left: 10px;
     font-weight: 400;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 .cart-total .payment-options .option-block .checkbox label span b {
   color: #0392ce;
@@ -4831,7 +4831,7 @@ select:focus {
     color: #222222;
     font-size: 16px;
     font-weight: 400;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 .login-register-area .form .remember-text .checkbox input {
     margin-top: 5px;
@@ -4884,7 +4884,7 @@ select:focus {
     color: #848484;
     float: left;
     font-size: 14px;
-    font-family: 'Hind', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     padding-left: 10px;
     overflow: hidden;
     margin-left: -40px;
@@ -4933,7 +4933,7 @@ select:focus {
 .cart-area .cart-table .cart-header {
   background: #f7f7f7;
   color: #222222;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-size: 16px;
   position: relative;
   text-transform: capitalize;
@@ -4959,7 +4959,7 @@ select:focus {
 }
 .cart-area .cart-table tbody tr td {
     color: #999999;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     font-size: 14px;
     font-weight: 400;
     line-height: 20px;
@@ -4992,7 +4992,7 @@ select:focus {
     font-size: 16px;
     font-weight: 400;
     text-transform: capitalize;
-    font-family: 'Poppins', sans-serif;    
+    font-family: 'Quicksand', sans-serif;    
 }
 
 .cart-area .cart-table tbody tr .qty {
@@ -5214,7 +5214,7 @@ select:focus {
     color: #0392ce;
     font-size: 22px;
     font-weight: 400;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 .single-shop-content .content-box .text {
     overflow: hidden;
@@ -5618,7 +5618,7 @@ input#datepicker {
     padding: 0 15px;
     font-size: 16px;
     font-weight: 300;
-    font-family: 'Hind', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     transition: all 500ms ease;
 }
 .time-table-area .input-box .icon-box {
@@ -5643,7 +5643,7 @@ input#datepicker {
 }
 .time-table thead {
     background: #fcfcfc;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     position: relative;
     text-transform: capitalize;
     width: 100%;
@@ -5716,14 +5716,14 @@ input#datepicker {
     font-size: 14px;
     font-weight: 400;
     line-height: 20px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 .time-table tbody tr .single-box.time .inner-content p {
     color: #848484;
     font-size: 14px;
     font-weight: 400;
     line-height: 20px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     margin: 0;
     text-transform: capitalize;
     text-decoration: none;
@@ -5733,28 +5733,28 @@ input#datepicker {
     color: #fcfcfc;
     font-size: 16px;
     font-weight: 600;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     margin: 0 0 5px;
 }
 .time-table tbody tr .single-box .inner-content span{
     color: #fcfcfc;
     font-size: 16px;
     font-weight: 300;
-    font-family: 'Hind', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 .time-table tbody tr .single-box .inner-content p {
     color: #fcfcfc;
     font-size: 16px;
     font-weight: 300;
     text-decoration: underline;
-    font-family: 'Hind', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     margin: 5px 0 5px;
 }
 .time-table tbody tr .single-box .inner-content .level{
     color: #fcfcfc;
     font-size: 16px;
     font-weight: 600;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     margin: 0 0 3px;        
 }
 .time-table tbody tr .single-box .inner-content .level span{
